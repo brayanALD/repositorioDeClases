@@ -3,6 +3,7 @@ package com.mycompany.proyectofinal.Classes;
 import javax.swing.JOptionPane;
 
 public class ClassInventory {
+    //This was done by Santiago, he could not upload it to the repository due to problems with the PC.
      int IDItem,Amount;
     String NameItem;
     double UnitCoast;

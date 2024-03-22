@@ -5,7 +5,7 @@ import javax.swing.JOptionPane;
 public class ClassCar {
     String Plate, Brand, ModelCar, Category; 
     int Km;
-    
+    //This was done by Santiago, he could not upload it to the repository due to problems with the PC.
     public String Plate(){
         return Plate;
     }

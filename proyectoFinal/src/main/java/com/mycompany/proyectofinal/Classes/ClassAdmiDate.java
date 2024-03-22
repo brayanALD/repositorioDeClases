@@ -3,7 +3,7 @@ package com.mycompany.proyectofinal.Classes;
 import javax.swing.JOptionPane;
 
 public class ClassAdmiDate {
-    
+    //This was done by Santiago, he could not upload it to the repository due to problems with the PC.
    String ActiveClients,DeliveredClients,RepairMaintenance;
    
    public String ActiveClients(){
