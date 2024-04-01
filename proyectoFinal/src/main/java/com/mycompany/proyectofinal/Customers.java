@@ -11,7 +11,7 @@ public class Customers {
         for (int i = 0; i < 5; i++) {
             ID = JOptionPane.showInputDialog("Enter the ID number for customer " + (i+1));
             Name = JOptionPane.showInputDialog("Enter the name for customer " + (i+1));
-            LastName = JOptionPane.showInputDialog("Enter the last name for customer " );
+            LastName = JOptionPane.showInputDialog("Enter the last name for customer "+(i+1));
             Address = JOptionPane.showInputDialog("Enter the address for customer " + (i+1));
             Phone = JOptionPane.showInputDialog("Enter the telephone number for customer "+ (i+1));
             
